@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    zoom_search_s4m (0.3.6)
+    zoom_search_s4m (0.4)
       nokogiri (= 1.7.1)
 
 GEM

@@ -26,5 +26,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry", "~> 0.10.1"
   spec.add_development_dependency "certified", '1.0.0'
   
-  spec.add_dependency "nokogiri",  "1.7.1"
+  spec.add_dependency "nokogiri",  "1.6.1"
 end
